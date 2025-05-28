@@ -2,6 +2,10 @@ a [href^ = "html"]{
   color: green;
 }
 
+p[lang | = "pt"]{
+  color: green;
+}
+
 input type = "email"{
   background-color: gray;
 }
