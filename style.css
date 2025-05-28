@@ -1,12 +1,8 @@
-a [href^ = "html"]{
+a [href^ = "https"]{
   color: green;
 }
 
-p[lang | = "pt"]{
-  color: green;
-}
-
-input type = "email"{
+input [type = "email"]{
   background-color: gray;
 }
 
@@ -19,4 +15,8 @@ a [href$ = ".pdf"]{
 }
 div [class~ = "ativo"]{
   background-color: blue;
+}
+
+p[lang | = "pt"]{
+  color: green;
 }
