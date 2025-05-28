@@ -1,5 +1,5 @@
-html{
-  background-color: green;
+a [href^ = "html"]{
+  color: green;
 }
 
 input ctype = "email"{
