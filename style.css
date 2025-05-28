@@ -2,7 +2,7 @@ a [href^ = "html"]{
   color: green;
 }
 
-input ctype = "email"{
+input type = "email"{
   background-color: gray;
 }
 
