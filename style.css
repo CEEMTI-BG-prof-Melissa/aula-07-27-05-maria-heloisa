@@ -2,6 +2,10 @@ html{
   background-color: green;
 }
 
+input ctype = "email"{
+  background-color: green;
+}
+
 input[requered]{
   boder: 2x slid red;
 }
@@ -9,3 +13,4 @@ input[requered]{
 a [href$ = ."pdf"]{
   color: pink;
 }
+
