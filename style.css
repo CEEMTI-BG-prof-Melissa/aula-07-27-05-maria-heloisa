@@ -1,16 +1,16 @@
-.a [href^ = "html"]{
+a [href^ = "html"]{
   color: green;
 }
 
-.input ctype = "email"{
-  background-color: green;
+input ctype = "email"{
+  background-color: gray;
 }
 
-.input[requered]{
+input[requered]{
   boder: 2x slid red;
 }
 
-.a [href$ = ."pdf"]{
+a [href$ = ."pdf"]{
   color: pink;
 }
 
