@@ -10,7 +10,7 @@ input[requered]{
   boder: 2x slid red;
 }
 
-a [href$ = ."pdf"]{
+a [href$ = ".pdf"]{
   color: pink;
 }
 
