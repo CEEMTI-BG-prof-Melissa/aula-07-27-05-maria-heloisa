@@ -1,18 +1,19 @@
-a [href^ = "https"]{
-  color: green;
+input[requered]{
+  boder: 2x slid red;
 }
 
 input [type = "email"]{
   background-color: gray;
 }
 
-input[requered]{
-  boder: 2x slid red;
+a [href^ = "https"]{
+  color: green;
 }
 
 a [href$ = ".pdf"]{
   color: pink;
 }
+
 div [class~ = "ativo"]{
   background-color: blue;
 }
