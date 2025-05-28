@@ -17,4 +17,6 @@ input[requered]{
 a [href$ = ".pdf"]{
   color: pink;
 }
-
+div [class~ = "ativo"]{
+  background-color: blue;
+}
