@@ -14,7 +14,7 @@ a [href$ = ".pdf"]{
   color: pink;
 }
 
-a [href^ = "go"]{
+a [href^ = "exemplo"]{
   font-weight: bolf;
 }
 
