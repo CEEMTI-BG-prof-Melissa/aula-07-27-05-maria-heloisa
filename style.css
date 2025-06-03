@@ -1,27 +1,21 @@
 input[requered]{
   boder: 2x slid red;
 }
-
 input [type = "password"]{
-  background-color: light gray;
+  background-color: lightgray;
 }
-
 a [href^ = "https"]{
   color: green;
 }
-
 a [href$ = ".pdf"]{
   color: pink;
 }
-
 a [href^ = "exemplo"]{
   font-weight: bolf;
 }
-
 div [class~ = "ativo"]{
   background-color: blue;
 }
-
 p[lang | = "pt"]{
   color: green;
 }
