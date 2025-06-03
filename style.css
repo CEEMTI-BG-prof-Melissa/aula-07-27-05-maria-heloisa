@@ -1,21 +1,21 @@
 input[requered]{
-  boder: 2x slid red;
+  boder: 2x solid red;
 }
-input[type = "password"]{
+input[type="password"]{
   background-color: lightgray;
 }
-a [href^ = "https"]{
+a [href^="https"]{
   color: green;
 }
-a [href$ = ".pdf"]{
+a [href$=".pdf"]{
   color: pink;
 }
-a [href^ = "exemplo"]{
+a [href^="exemplo"]{
   font-weight: bolf;
 }
-div [class~ = "ativo"]{
+div [class~="ativo"]{
   background-color: blue;
 }
-p[lang| = "pt"]{
+p[lang|="pt"]{
   color: green;
 }
