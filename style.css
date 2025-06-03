@@ -16,6 +16,6 @@ a [href^ = "exemplo"]{
 div [class~ = "ativo"]{
   background-color: blue;
 }
-p[lang | = "pt"]{
+p[lang| = "pt"]{
   color: green;
 }
