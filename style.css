@@ -1,7 +1,7 @@
 input[requered]{
   boder: 2x slid red;
 }
-input [type = "password"]{
+input[type = "password"]{
   background-color: lightgray;
 }
 a [href^ = "https"]{
