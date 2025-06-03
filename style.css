@@ -3,7 +3,7 @@ input[requered]{
 }
 
 input [type = "password"]{
-  background-color: gray;
+  background-color: light gray;
 }
 
 a [href^ = "https"]{
