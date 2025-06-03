@@ -1,20 +1,22 @@
-input[requered]{
-  boder: 2x solid red;
+input[required]{
+  border: 2px solid red;
 }
 input[type="password"]{
   background-color: lightgray;
 }
-a [href^="https"]{
+a[href^="https"]{
   color: green;
 }
-a [href$=".pdf"]{
+a[href$=".pdf"]{
   color: pink;
 }
-a [href^="exemplo"]{
-  font-weight: bolf;
+
+a[href*="exemplo"]{
+  font-weight:bolder;
 }
-div [class~="ativo"]{
-  background-color: blue;
+
+div[class~="ativo"]{
+  background-color: lightblue;
 }
 p[lang|="pt"]{
   color: green;
